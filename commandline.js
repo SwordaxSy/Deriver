@@ -48,7 +48,7 @@ inputArea.addEventListener("keydown", (e) => {
                 "print -text to print-\n" +
                 "clear *clears CLI*\n" +
                 "contact *prints author's discord id*\n" +
-                "discord *redirects to author's discord profile*\n" +
+                "discord *opens author's discord profile*\n" +
                 "test *testing command*\n" +
                 "info *show commands list*";
         } else if (input.startsWith("test")) {
